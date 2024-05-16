@@ -1,8 +1,7 @@
-``javascrit
 //saldo de estoque inicial
 estoque = 10;
 
-//variavesi de entrada de dados
+//variaveis de entrada de dados
 const entrada = prompt('Informe o tipo de entrada(1-Compra 2-Venda): ');
 const quantidade = Number(prompt('Informe a quantidade: '));
 
@@ -18,4 +17,3 @@ if(entrada === '1'){
     console.log(`Saldo: ${saldoVenda}`)
   }
 }
-``
