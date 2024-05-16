@@ -1,5 +1,3 @@
 ### Lógica de Progamação - Senai Full Stack
 ---
-- Desafio 01
-- Desafio 02
-- Desafio 03
+- [Desafio 1](https://github.com/kaylannesantos/logicaProgramacao/tree/main/desafio01)
